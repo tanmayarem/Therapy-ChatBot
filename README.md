@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @tanmayarem
-
+- 👋 Hi, I’m @tanmaya
 
