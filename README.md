@@ -1,3 +1,5 @@
+Counsellor Bot
+
 A mini side project I did, based on another bot I worked on previously (The genZ bot),the counsellor bot. 
 
 Project description:-
