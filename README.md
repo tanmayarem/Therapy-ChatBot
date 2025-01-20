@@ -12,3 +12,4 @@ pip install gradio groq
 Run:-
 run "python app.py" in terminal
 
+
