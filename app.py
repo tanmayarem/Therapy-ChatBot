@@ -1,4 +1,4 @@
-pip install groq gradio
+#pip install groq gradio
 
 import gradio as gr
 from groq import Groq
